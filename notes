@@ -1,6 +1,8 @@
 encore un truc bcp trop cher pour ce que c'est..
 
-title:"DscBox"
+shodan : title:"DscBox"
+20ish instances
+
 default creds (operator:operator, ptetre d'autres mais osef)
 
 injection de commande dans la fonction ping (*suprised pikachu*)
