@@ -1,0 +1,9 @@
+encore un truc bcp trop cher pour ce que c'est..
+
+title:"DscBox"
+default creds (operator:operator, ptetre d'autres mais osef)
+
+injection de commande dans la fonction ping (*suprised pikachu*)
+ils ont protégés l'input de l'ip mais pas celle du ping count les zouaves..
+
+pti trick pour avoir l'output, | echo $(id)
